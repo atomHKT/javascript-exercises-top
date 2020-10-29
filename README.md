@@ -1,1 +1,1 @@
-# javascript-exercises-top
+This is repository contains my solutions to the The Odin Project's javascript exercices (Web Developpment 101 course).
